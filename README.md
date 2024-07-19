@@ -1,2 +1,2 @@
 # simonGAme
-Exciting electronic game of lights and sounds
+Exciting electronic game of lights and sounds...
